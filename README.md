@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibnu Topan Adib</h1>
 <h3 align="center">A Student that want to learn more about programming</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/HaD1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnutopanadib&label=Profile%20views&color=0e75b6&style=flat" alt="ibnutopanadib" /> </p>
 
