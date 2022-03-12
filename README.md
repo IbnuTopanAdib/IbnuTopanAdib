@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibnu Topan Adib</h1>
-<h3 align="center">A Student that want to learn more about programming</h3>
+<h3 align="center">A Normal Student</h3>
 <img align="right" src="https://hackernoon.com/images/f2px36fy.gif" width="600">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibnutopanadib&label=Profile%20views&color=0e75b6&style=flat" alt="ibnutopanadib" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
@@ -24,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnutopanadib&show_icons=true&locale=en" alt="ibnutopanadib" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibnutopanadib&" alt="ibnutopanadib" /></p>
+
