@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Laravel and React.js**
 
 - 💬 Ask me about **Food**
 
@@ -13,9 +13,6 @@
 
 - ⚡ Fun fact **I am Inevitable**
 
-
-<br>
-<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibnutopanadib&show_icons=true&locale=en&layout=compact" alt="ibnutopanadib" height="180"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnutopanadib&show_icons=true&locale=en" alt="ibnutopanadib" height="180" /></p>
