@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibnu Topan Adib</h1>
 <h3 align="center">A Normal Student</h3>
 <br>
-<img align="right" src="https://hackernoon.com/images/f2px36fy.gif" width="500" height="515">
+<img align="right" src="https://hackernoon.com/images/f2px36fy.gif" width="500">
 
 
 
