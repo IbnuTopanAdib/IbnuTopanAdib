@@ -5,13 +5,13 @@
 
 
 
-- 🌱 I’m currently learning **Laravel and React.js**
+- 🌱 I’m currently learning **Laravel and Javascript**
 
-- 💬 Ask me about **Food**
+- 💬 Ask me about **Web Programming**
 
 - 📫 How to reach me **resyaderesya@gmail.com**
 
-- ⚡ Fun fact **I am Inevitable**
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibnutopanadib&show_icons=true&locale=en&layout=compact" alt="ibnutopanadib" height="180"/></p>
