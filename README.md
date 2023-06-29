@@ -15,6 +15,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibnutopanadib&show_icons=true&locale=en&layout=compact" alt="ibnutopanadib" height="180"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ibnutopanadib&show_icons=true&locale=en" alt="ibnutopanadib" height="150" /></p>
+
 
 
