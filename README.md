@@ -5,9 +5,6 @@
 
 
 
-- 🌱 I’m currently learning **Laravel and Javascript**
-
-- 💬 Ask me about **Web Programming**
 
 - 📫 How to reach me **resyaderesya@gmail.com**
 
