@@ -14,7 +14,8 @@
 ### GitHub Stats 📊
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbnuTopanAdib&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuTopanAdib&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=6&theme=dark)
+
 
 
 
