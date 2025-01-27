@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **resyaderesya@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuTopanAdib)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuTopanAdib&layout=compact&langs_count=6&theme=dark)
+
 
 
 
