@@ -8,7 +8,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuTopanAdib&layout=compact&theme=dark)
+![My Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuTopanAdib&layout=compact&theme=dark)
 
 
 
