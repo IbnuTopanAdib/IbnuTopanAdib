@@ -45,17 +45,9 @@
 ### 📬 Get in Touch
 
 - 📧 Email: [resyaderesya@gmail.com](mailto:resyaderesya@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ibnutopanadib](https://www.linkedin.com/in/ibnutopanadib) *(opsional – ganti jika punya)*
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle) *(opsional)*
+- 💼 LinkedIn: [linkedin.com/in/ibnutopanadib](https://www.linkedin.com/in/ibnu-topan-adib-amrulloh-6a56b2271/).
 
 ---
-
-### 🏆 GitHub Highlights
-
-- ⭐ **7+** stars earned  
-- 📦 Contributed to **3+** public repos (last year)  
-- 🔧 **166+** commits in the last year  
-- 🚀 **25** Pull Requests | **10** Issues opened  
 
 > “Write code that tells a story.” — Me 🧑‍💻
 
